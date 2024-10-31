@@ -1,10 +1,11 @@
-### Hola, soy Alejandro! :)
+### Hola, me llamo Alejandro! :)
 
-Desarrollador Web Junior <br/>
+Soy Desarrollador Web Junior <br/>
 Mis estudios son:  <br/>
 Desarrollo de Aplicaciones Web👨🏻‍💻<br/>
 Sistemas Microinformáticos y Redes📶 <br/>
 Diseño Gráfico🎨<br/>
+
 
 
 ## 🌐 Redes Sociales:
@@ -17,7 +18,7 @@ Diseño Gráfico🎨<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlejandroASP&theme=dark&hide_border=false)<br/>
 
 # 📹Proyectos:
-
+[![Proyecto Final DAW](https://ytcards.demolab.com/?id=i3h1adB0jhw&title=Proyecto+Final+DAW&lang=es&timestamp=1726009200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436)](https://www.youtube.com/watch?v=i3h1adB0jhw)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroASP&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
